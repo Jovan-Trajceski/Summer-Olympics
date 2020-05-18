@@ -9,4 +9,4 @@ COUNTRY_CODES_file  = Data / 'Summer Olympic medalists 1896 to 2008 - IOC COUNTR
 ALL_MEDALIST_file   = Data / 'Summer Olympic medalists 1896 to 2008 - ALL MEDALISTS.tsv'
 
 # Notebook
-[my directory](test_dir)
+[my directory](Case Study - Summer Olympics.ipynb)
