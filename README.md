@@ -10,4 +10,4 @@ ALL_MEDALIST_file   = Data / 'Summer Olympic medalists 1896 to 2008 - ALL MEDALI
 
 # Outcome
 
-![Outcome] (img/summary.png)
+![](img/summary.png)
