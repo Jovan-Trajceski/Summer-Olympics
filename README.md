@@ -1,6 +1,6 @@
 # Summer-Olympics
 
-This case study explores the question if olympic host countries win more medals by analyzing data from 1896 to 2008. 
+This case study explores the question if host countries win more medals by analyzing data from 1896 to 2008. 
 
 # Data sets
 
